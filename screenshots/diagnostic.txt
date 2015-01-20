@@ -1,0 +1,3 @@
+I/activity(  593): onCreate fired
+I/activity(  593): onCreateOptionMenu fired
+E/activity(  593): We're going down, Captain!
