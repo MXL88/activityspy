@@ -1,3 +1,6 @@
-I/activity(  593): onCreate fired
-I/activity(  593): onCreateOptionMenu fired
-E/activity(  593): We're going down, Captain!
+I/activity(  582): onCreate fired 
+I/activity(  582): onCreateOptionMenu fired
+E/activity(  582): We're going down, Captain!
+I/activity(  603): onCreate fired 
+I/activity(  603): onCreateOptionMenu fired
+E/activity(  603): We're going down, Captain!

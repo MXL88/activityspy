@@ -13,7 +13,11 @@ public class MainActivity extends ActionBarActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Log.i("activity", "onCreate fired");
+        String bundle = "";
+        if (savedInstanceState != null) {
+            bundle = savedInstanceState.toString();
+        }
+        Log.i("activity", "onCreate fired " + bundle);
         setContentView(R.layout.activity_main);
     }
 
